@@ -48,7 +48,7 @@ Please review the script for detailed queries and operations.
 
 ## License
 
-This script is provided under the [MIT License](LICENSE).
+This script is provided under the [MIT License](https://github.com/salahsaeed19).
 
 ## Contact
 
